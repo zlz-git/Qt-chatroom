@@ -11,3 +11,4 @@
 ![image](https://github.com/zlz-git/packge/blob/master/login.png)
 ![image](https://github.com/zlz-git/packge/blob/master/dispaly.png)
 ![image](https://github.com/zlz-git/packge/blob/master/groupchat.png)
+![image](https://github.com/zlz-git/packge/blob/master/privatechat.png)
