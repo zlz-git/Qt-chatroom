@@ -9,3 +9,4 @@
 实现了群聊和私聊功能 （双击右侧在线用户，即可弹出私聊窗口）
 
 ![image](https://github.com/zlz-git/packge/blob/master/login.png)
+![image](https://github.com/zlz-git/packge/blob/master/dispaly.png)
